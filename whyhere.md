@@ -1,1 +1,0 @@
-Hi everyone! From now i would post my ck3 designs codes here bc its the best variant for me, pastebin is not an option anymore unfortunatly. You can copypaste code from txt files or download them manually.
