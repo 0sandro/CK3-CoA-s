@@ -1,0 +1,5479 @@
+###################################################
+technical MOCKUP
+
+coa_title_10700={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.555000 0.475000 }
+			scale={ 0.130000 0.130000 }
+		}
+
+		instance={
+			position={ 0.425000 0.330000 }
+			scale={ 0.150000 0.150000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.500000 0.605000 }
+			scale={ 1.000000 0.105000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.500000 0.255000 }
+			scale={ 1.000000 0.100000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.645000 0.500000 }
+			scale={ 0.100000 1.000000 }
+			depth=5.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.355000 0.500000 }
+			scale={ 0.100000 1.000000 }
+			depth=6.010000
+			rotation=90
+		}
+
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=7.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=white
+		texture="ce_lozengy_bend.dds"
+		instance={
+			position={ 0.400000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.600000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=8.010000
+		}
+
+	}
+
+}
+
+######################################
+Louis IV of Wittelsbach
+
+coa_title_151={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=white
+		texture="ce_lozengy_bend.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.350000 0.350000 }
+		}
+
+	}
+
+}
+
+######################################
+Rupert of Wittelsbach
+
+coa_title_10702={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.555000 0.475000 }
+			scale={ 0.130000 0.130000 }
+		}
+
+		instance={
+			position={ 0.425000 0.330000 }
+			scale={ 0.150000 0.150000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=white
+		texture="ce_lozengy_bend.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.400000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.600000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=3.010000
+		}
+
+	}
+
+}
+
+
+######################################
+Rudolf I of Habsburg
+
+coa_title_151={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=black
+	colored_emblem={
+		color1=red
+		color2=blue
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.280000 0.280000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=2.010000
+		}
+
+	}
+
+}
+
+######################################
+Henry VII of Luxembourg
+
+coa_title_151={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_lion_rampant_crown_forked.dds"
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=blue
+		texture="ce_barruly_10.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=7.010000
+		}
+
+	}
+
+}
+
+######################################
+Charles IV\Wenceslaus IV of Luxembourg
+
+coa_title_151={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=black
+	colored_emblem={
+		color1=white
+		color2=yellow
+		texture="ce_lion_rampant_crown_forked.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.280000 0.280000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=2.010000
+		}
+
+	}
+
+}
+
+######################################
+Sigismund of Luxembourg
+
+coa_title_151={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_crown_small.dds"
+		instance={
+			position={ 0.575000 0.280000 }
+			scale={ 0.040000 0.040000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		mask={ 0 2 0 }
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=2.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_barruly_08.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.325000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=red
+		texture="ce_chief.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=yellow
+		color3=black
+		texture="ce_lion_rampant_per_pale.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.570000 0.400000 }
+			scale={ 0.240000 0.270000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=10.010000
+		}
+
+	}
+
+}
+
+######################################################
+Otto IV of Welf
+
+coa_title_10716={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=black
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.210000 0.320000 }
+		}
+
+		instance={
+			position={ 0.500000 0.330000 }
+			scale={ 0.240000 0.320000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=3.010000
+		}
+
+	}
+
+}
+
+######################################
+Otto IV of Welf Alt
+
+coa_title_10722={
+	custom=yes
+	pattern="pattern_vertical_split_01.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			scale={ 0.100000 1.000000 }
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		mask={ 1 0 0 }
+		instance={
+			position={ 0.500000 0.670000 }
+			scale={ 0.850000 0.850000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.500000 0.160000 }
+			scale={ 0.850000 0.850000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.850000 0.850000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.500000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 0.500000 }
+			depth=10.010000
+		}
+
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=11.010000
+		}
+
+	}
+
+}
+
+######################################
+Maximilian I of Habsburg HRE
+
+coa_title_151={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	color4=yellow
+	color5=yellow
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.250000 0.420000 }
+			scale={ 0.500000 0.500000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_border_shield.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.470000 0.435000 }
+			scale={ 0.470000 0.395000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=yellow
+		color3=red
+		texture="ce_bendy_06_dimidiated.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.410000 }
+			scale={ 0.330000 0.330000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.460000 0.565000 }
+			scale={ 0.100000 0.100000 }
+		}
+
+		instance={
+			position={ 0.510000 0.500000 }
+			scale={ 0.020000 0.500000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=black
+		color3=black
+		texture="ce_block_02.dds"
+		instance={
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=7.010000
+		}
+
+	}
+
+}
+
+
+######################################
+Albert I\Frederick the Fair\Frederick III of Habsburg
+
+coa_title_10700={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.395000 }
+			scale={ 0.470000 0.470000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_block_02.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=7.010000
+		}
+
+	}
+
+}
+
+######################################
+Hohenstaufen HRE
+
+coa_title_10714={
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=black
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		texture="ce_lion_passant_small.dds"
+		instance={
+			position={ 0.500000 0.495000 }
+			scale={ 0.185000 0.200000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		texture="ce_lion_passant_random.dds"
+		instance={
+			position={ 0.500000 0.405000 }
+			scale={ 0.230000 0.250000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.500000 0.325000 }
+			scale={ 0.260000 0.260000 }
+			depth=2.010000
+		}
+
+	}
+
+}
+
+##################################################
+Frederick II of Hohenstaufen
+
+coa_title_151={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.595000 0.465000 }
+			scale={ 0.095000 0.280000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue_light
+		texture="ce_block_02.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.405000 0.465000 }
+			scale={ 0.095000 0.280000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_block_02.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.285000 0.350000 }
+			depth=16.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_jerusalem.dds"
+		instance={
+			position={ 0.595000 0.405000 }
+			scale={ 0.120000 0.190000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=20.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=21.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_lion_passant.dds"
+		instance={
+			position={ 0.500000 0.380000 }
+			scale={ 0.120000 0.120000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.500000 0.460000 }
+			scale={ 0.120000 0.120000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.500000 0.545000 }
+			scale={ 0.120000 0.120000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_pile_03.dds"
+		instance={
+			position={ 0.595000 0.275000 }
+			scale={ 0.140000 -0.100000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.405000 0.275000 }
+			scale={ 0.140000 -0.100000 }
+			depth=14.010000
+		}
+
+		instance={
+			position={ 0.500000 0.275000 }
+			scale={ 0.140000 -0.100000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_oak_leaf.dds"
+		instance={
+			position={ 0.410000 0.405000 }
+			scale={ 0.050000 0.050000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.390000 0.440000 }
+			scale={ 0.050000 0.050000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.430000 0.440000 }
+			scale={ 0.050000 0.050000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=19.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fire.dds"
+		instance={
+			position={ 0.390000 0.430000 }
+			scale={ 0.050000 0.050000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.430000 0.430000 }
+			scale={ 0.050000 0.050000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.410000 0.390000 }
+			scale={ 0.050000 0.050000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.465000 }
+			scale={ 0.095000 0.280000 }
+			depth=11.010000
+		}
+
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=22.010000
+		}
+
+	}
+
+}
+
+
+##################################################
+Arch-Bannerbearer
+
+coa_title_10733={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=blue
+	color2=yellow
+	color3=black
+	colored_emblem={
+		color1=yellow
+		texture="ce_crescent.dds"
+		instance={
+			position={ 0.555000 0.395000 }
+			scale={ 0.060000 0.060000 }
+			depth=1.010000
+			rotation=333
+		}
+
+		instance={
+			position={ 0.645000 0.525000 }
+			scale={ 0.200000 0.110000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_mena_diamond_napkin.dds"
+		instance={
+			position={ 0.890000 0.635000 }
+			scale={ 0.965000 0.340000 }
+			depth=7.010000
+			rotation=43
+		}
+
+		instance={
+			position={ 0.665000 0.610000 }
+			scale={ 0.445000 0.445000 }
+			depth=13.010000
+			rotation=29
+		}
+
+		instance={
+			position={ 0.755000 0.560000 }
+			scale={ 0.490000 0.370000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_spearhead.dds"
+		instance={
+			position={ 0.315000 0.165000 }
+			scale={ 0.165000 0.165000 }
+			depth=20.010000
+			rotation=342
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.800000 0.820000 }
+			scale={ 0.250000 0.250000 }
+			rotation=80
+		}
+
+		instance={
+			position={ 0.880000 0.570000 }
+			scale={ 0.410000 0.025000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.885000 0.675000 }
+			scale={ 0.500000 0.500000 }
+			depth=12.010000
+			rotation=45
+		}
+
+		instance={
+			depth=27.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=red
+		texture="ce_gotland_banner.dds"
+		instance={
+			position={ 0.455000 0.560000 }
+			scale={ -1.000000 1.000000 }
+			depth=26.010000
+			rotation=342
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.515000 0.255000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.675000 0.445000 }
+			scale={ 0.055000 0.050000 }
+			depth=15.010000
+		}
+
+		instance={
+			position={ 0.650000 0.490000 }
+			scale={ 0.105000 0.080000 }
+			depth=16.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_boat.dds"
+		instance={
+			position={ 0.460000 0.200000 }
+			scale={ 0.395000 0.395000 }
+			depth=19.010000
+			rotation=159
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.380000 0.380000 }
+			scale={ 0.405000 0.405000 }
+			depth=3.010000
+			rotation=71
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.460000 0.575000 }
+			scale={ 0.075000 0.075000 }
+			depth=4.010000
+			rotation=347
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=blue
+		texture="ce_boat.dds"
+		instance={
+			position={ 0.585000 0.495000 }
+			scale={ 0.520000 0.520000 }
+			depth=23.010000
+			rotation=161
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		texture="ce_eagle.dds"
+		instance={
+			position={ 0.505000 0.290000 }
+			scale={ 0.340000 0.340000 }
+			depth=2.010000
+			rotation=336
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_ordinary_pall_5.dds"
+		instance={
+			position={ 0.305000 0.145000 }
+			scale={ 0.330000 0.330000 }
+			depth=25.010000
+			rotation=160
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.615000 0.640000 }
+			scale={ 0.325000 0.320000 }
+			depth=8.010000
+			rotation=140
+		}
+
+		instance={
+			position={ 0.665000 0.720000 }
+			scale={ 0.275000 0.275000 }
+			depth=9.010000
+			rotation=58
+		}
+
+		instance={
+			position={ 0.485000 0.585000 }
+			scale={ 0.250000 0.250000 }
+			depth=10.010000
+			rotation=309
+		}
+
+		instance={
+			position={ 0.620000 0.340000 }
+			scale={ 0.555000 -0.555000 }
+			depth=18.010000
+			rotation=115
+		}
+
+		instance={
+			position={ 0.510000 0.545000 }
+			scale={ 0.370000 0.240000 }
+			depth=21.010000
+			rotation=94
+		}
+
+		instance={
+			position={ 0.615000 0.440000 }
+			scale={ 0.335000 0.285000 }
+			depth=22.010000
+			rotation=256
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.575000 0.500000 }
+			scale={ 0.090000 0.050000 }
+			depth=11.010000
+			rotation=70
+		}
+
+		instance={
+			position={ 0.495000 0.310000 }
+			scale={ 0.280000 0.280000 }
+			depth=24.010000
+			rotation=71
+		}
+
+	}
+
+}
+
+######################################
+Maximilian I of Habsburg
+
+coa_title_10823={
+	custom=yes
+	pattern="pattern_vertical_split_01.dds"
+	color1=red
+	color2=white
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+		instance={
+			position={ 0.000000 0.450000 }
+			scale={ 1.000000 1.600000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_border_shield.dds"
+		instance={
+			scale={ 1.120000 1.000000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=yellow
+		color3=red
+		texture="ce_bendy_06_dimidiated.dds"
+		instance={
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.520000 0.500000 }
+			scale={ 0.050000 1.000000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=yellow
+		texture="ce_bendy_08.dds"
+		instance={
+			position={ 0.985000 0.530000 }
+			scale={ 0.940000 0.940000 }
+			depth=3.010000
+		}
+
+	}
+
+}
+
+##################################################
+Alfonso X of Castile
+
+coa_title_10724={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_lozengy_bend.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.400000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.600000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=red
+		texture="ce_barry_04.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.600000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.400000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=purple
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.565000 0.330000 }
+			scale={ 0.150000 0.150000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.445000 0.470000 }
+			scale={ 0.130000 0.130000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		texture="ce_castle.dds"
+		instance={
+			position={ 0.555000 0.465000 }
+			scale={ 0.130000 0.130000 }
+		}
+
+		instance={
+			position={ 0.430000 0.330000 }
+			scale={ 0.145000 0.145000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=13.010000
+		}
+
+	}
+
+}
+
+######################################################################
+Henry Raspe of Thuringia
+
+coa_title_10725={
+	custom=yes
+	pattern="pattern_barruly_12.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.270000 0.270000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=yellow
+		texture="ce_lion_rampant_crown.dds"
+		mask={ 0 2 3 }
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.270000 0.270000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=9.010000
+		}
+
+		instance={
+			depth=10.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Adolf of Nassau
+
+coa_title_10726={
+	custom=yes
+	pattern="pattern_barruly_12.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.270000 0.270000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=19.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.535000 0.400000 }
+			scale={ 0.010000 0.020000 }
+		}
+
+		instance={
+			position={ 0.545000 0.500000 }
+			scale={ 0.010000 0.020000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.580000 0.460000 }
+			scale={ 0.010000 0.020000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.605000 0.380000 }
+			scale={ 0.010000 0.020000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.465000 0.300000 }
+			scale={ 0.010000 0.020000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.595000 0.305000 }
+			scale={ 0.010000 0.020000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.400000 0.350000 }
+			scale={ 0.010000 0.020000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.410000 0.420000 }
+			scale={ 0.010000 0.020000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.445000 0.485000 }
+			scale={ 0.010000 0.020000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.475000 0.500000 }
+			scale={ 0.010000 0.020000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.455000 0.415000 }
+			scale={ 0.010000 0.020000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.410000 0.310000 }
+			scale={ 0.010000 0.020000 }
+			depth=11.010000
+		}
+
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=20.010000
+		}
+
+		instance={
+			depth=21.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Richard of Cornwall
+
+coa_title_10727={
+	custom=yes
+	pattern="pattern_barruly_12.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.210000 0.210000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=19.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.200000 0.200000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.595000 0.300000 }
+			scale={ 0.030000 0.030000 }
+		}
+
+		instance={
+			position={ 0.535000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.465000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.405000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.405000 0.360000 }
+			scale={ 0.030000 0.030000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.595000 0.360000 }
+			scale={ 0.030000 0.030000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.590000 0.420000 }
+			scale={ 0.030000 0.030000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.410000 0.420000 }
+			scale={ 0.030000 0.030000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.440000 0.480000 }
+			scale={ 0.030000 0.030000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.560000 0.480000 }
+			scale={ 0.030000 0.030000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.500000 0.530000 }
+			scale={ 0.030000 0.030000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=20.010000
+		}
+
+		instance={
+			depth=21.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Richard of Cornwall
+
+coa_title_10727={
+	custom=yes
+	pattern="pattern_barruly_12.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.210000 0.210000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=19.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.415000 }
+			scale={ 0.200000 0.200000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.290000 0.290000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.595000 0.300000 }
+			scale={ 0.030000 0.030000 }
+		}
+
+		instance={
+			position={ 0.535000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.465000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.405000 0.300000 }
+			scale={ 0.030000 0.030000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.405000 0.360000 }
+			scale={ 0.030000 0.030000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.595000 0.360000 }
+			scale={ 0.030000 0.030000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.590000 0.420000 }
+			scale={ 0.030000 0.030000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.410000 0.420000 }
+			scale={ 0.030000 0.030000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.440000 0.480000 }
+			scale={ 0.030000 0.030000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.560000 0.480000 }
+			scale={ 0.030000 0.030000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.500000 0.530000 }
+			scale={ 0.030000 0.030000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.280000 0.280000 }
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=20.010000
+		}
+
+		instance={
+			depth=21.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Jobst of Luxembourg
+
+coa_title_10739={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=white
+	color2=blue
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.310000 0.510000 }
+			scale={ 0.070000 0.030000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.710000 0.040000 }
+			scale={ 0.070000 0.030000 }
+			depth=5.010000
+		}
+
+		instance={
+			depth=16.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.500000 0.480000 }
+			scale={ 1.000000 0.100000 }
+			depth=10.010000
+		}
+
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=11.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.000000 }
+			scale={ 1.000000 0.960000 }
+			depth=14.010000
+		}
+
+		instance={
+			position={ 1.000000 0.980000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.315000 0.530000 }
+			scale={ 0.030000 0.015000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.705000 0.055000 }
+			scale={ 0.030000 0.015000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_lion_rampant_crown_forked.dds"
+		instance={
+			position={ 0.700000 0.700000 }
+			scale={ 0.470000 0.470000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.290000 0.250000 }
+			scale={ 0.500000 0.500000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=blue
+		texture="ce_horizontal_stripes_03.dds"
+		instance={
+			position={ 0.250000 0.240000 }
+			scale={ 0.500000 0.480000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_triskel_sassanian.dds"
+		instance={
+			position={ 0.715000 0.060000 }
+			scale={ 0.075000 0.075000 }
+		}
+
+		instance={
+			position={ 0.315000 0.535000 }
+			scale={ 0.075000 0.075000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_eagle_crown_boned.dds"
+		instance={
+			position={ 0.300000 0.720000 }
+			scale={ 0.500000 0.500000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.700000 0.260000 }
+			scale={ 0.530000 0.530000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=blue
+		texture="ce_barruly_10.dds"
+		instance={
+			position={ 0.750000 0.730000 }
+			scale={ 0.500000 0.500000 }
+			depth=13.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Rupert of Wittelsbach
+
+coa_title_10737={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=white
+	color2=blue
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 0.000000 }
+			scale={ 1.000000 0.960000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.500000 0.480000 }
+			scale={ 1.000000 0.100000 }
+			depth=3.010000
+		}
+
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=4.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		color3=white
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.710000 0.250000 }
+			scale={ 0.500000 0.500000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.980000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		color3=yellow
+		texture="ce_orb.dds"
+		instance={
+			position={ 0.280000 0.690000 }
+			scale={ 0.450000 0.450000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_small.dds"
+		instance={
+			position={ 0.280000 0.240000 }
+			scale={ 0.530000 0.530000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=blue
+		texture="ce_lozengy_bend.dds"
+		instance={
+			position={ 0.750000 0.730000 }
+			scale={ 0.500000 0.500000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.000000 }
+			scale={ 1.000000 0.960000 }
+			depth=7.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Jobst of Luxembourg HRE
+
+coa_title_10736={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.405000 }
+			scale={ 1.000000 0.100000 }
+		}
+
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=1.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_lozengy_bend.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.400000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.600000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_lion_rampant_crown_forked.dds"
+		instance={
+			position={ 0.555000 0.465000 }
+			scale={ 0.130000 0.130000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.430000 0.330000 }
+			scale={ 0.145000 0.145000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_eagle_crown_boned.dds"
+		instance={
+			position={ 0.565000 0.330000 }
+			scale={ 0.150000 0.150000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.440000 0.470000 }
+			scale={ 0.130000 0.130000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=white
+		texture="ce_barruly_12.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.600000 0.505000 }
+			scale={ 0.200000 0.200000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.400000 0.305000 }
+			scale={ 0.200000 0.200000 }
+			depth=5.010000
+		}
+
+	}
+
+}
+
+
+#########################################################################
+Charles V as Holy Roman Emperor
+
+
+coa_title_10738={
+	custom=yes
+	pattern="pattern_barruly_12.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.460000 0.290000 }
+			scale={ 0.075000 0.080000 }
+			depth=47.009998
+		}
+
+		instance={
+			position={ 0.390000 0.370000 }
+			scale={ 0.075000 0.080000 }
+			depth=49.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=black
+		texture="ce_shield_02.dds"
+		instance={
+			position={ 0.495000 0.420000 }
+			scale={ 0.385000 0.370000 }
+			depth=61.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_ordinary_bend_dexter_5.dds"
+		instance={
+			position={ 0.380000 0.525000 }
+			scale={ 0.030000 0.030000 }
+			depth=34.009998
+		}
+
+		instance={
+			position={ 0.410000 0.555000 }
+			scale={ 0.030000 0.030000 }
+			depth=35.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		texture="ce_bends_03.dds"
+		instance={
+			position={ 0.445000 0.545000 }
+			scale={ 0.075000 0.060000 }
+			depth=37.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=red
+		texture="ce_paly_08.dds"
+		instance={
+			position={ 0.570000 0.455000 }
+			scale={ 0.140000 0.090000 }
+			depth=54.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.395000 0.525000 }
+			scale={ 0.025000 0.020000 }
+			depth=38.009998
+		}
+
+		instance={
+			position={ 0.445000 0.540000 }
+			scale={ 0.075000 0.045000 }
+			depth=39.009998
+		}
+
+		instance={
+			position={ 0.575000 0.455000 }
+			scale={ 0.125000 0.065000 }
+			depth=41.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color3=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.485000 0.490000 }
+			scale={ 0.030000 0.030000 }
+			depth=50.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.575000 0.330000 }
+			scale={ 0.100000 0.160000 }
+			depth=11.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.100000 0.350000 }
+			depth=12.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.500000 0.410000 }
+			scale={ 0.295000 0.100000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.505000 0.250000 }
+			scale={ 0.305000 0.100000 }
+			depth=14.010000
+		}
+
+		instance={
+			scale={ 0.285000 0.100000 }
+			depth=21.010000
+		}
+
+		instance={
+			position={ 0.655000 0.355000 }
+			scale={ 0.100000 0.225000 }
+			depth=28.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		color3=white
+		texture="ce_lion_rampant_wide_stance.dds"
+		instance={
+			position={ 0.550000 0.540000 }
+			scale={ 0.090000 0.080000 }
+			depth=31.010000
+			rotation=342
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+		instance={
+			position={ 0.425000 0.455000 }
+			scale={ 0.150000 0.120000 }
+			depth=51.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_pile.dds"
+		instance={
+			position={ 0.615000 0.330000 }
+			scale={ 0.075000 -0.160000 }
+			depth=30.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_pile_02.dds"
+		instance={
+			position={ 0.615000 0.330000 }
+			scale={ 0.075000 0.160000 }
+			depth=29.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=62.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.490000 0.500000 }
+			scale={ 0.325000 0.215000 }
+			depth=58.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=65.010002
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=66.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_clarion.dds"
+		instance={
+			position={ 0.385000 0.455000 }
+			scale={ -0.120000 0.170000 }
+			depth=59.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=purple
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.460000 0.290000 }
+			scale={ 0.080000 0.080000 }
+			depth=22.010000
+		}
+
+		instance={
+			position={ 0.385000 0.370000 }
+			scale={ 0.080000 0.080000 }
+			depth=23.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_clarion.dds"
+		instance={
+			position={ 0.625000 0.455000 }
+			scale={ 0.075000 0.120000 }
+			depth=56.009998
+			rotation=360
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		color2=red
+		texture="ce_pomegranate.dds"
+		instance={
+			position={ 0.500000 0.395000 }
+			scale={ 0.040000 0.040000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_ordinary_bend_dexter_5.dds"
+		instance={
+			position={ 0.405000 0.535000 }
+			scale={ 0.045000 0.045000 }
+			depth=36.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.460000 0.370000 }
+			scale={ 0.075000 0.080000 }
+			depth=46.009998
+		}
+
+		instance={
+			position={ 0.390000 0.290000 }
+			scale={ 0.075000 0.080000 }
+			depth=48.009998
+		}
+
+		instance={
+			position={ 0.480000 0.545000 }
+			scale={ 0.030000 0.090000 }
+			depth=52.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=red
+		texture="ce_diagonal_stripe_02_striped.dds"
+		instance={
+			position={ 0.505000 0.455000 }
+			scale={ 0.060000 0.060000 }
+			depth=53.009998
+			rotation=45
+		}
+
+		instance={
+			position={ 0.640000 0.455000 }
+			scale={ 0.050000 0.055000 }
+			depth=55.009998
+			rotation=45
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_vertical_stripes_01.dds"
+		instance={
+			position={ 0.615000 0.325000 }
+			scale={ 0.075000 0.155000 }
+			depth=43.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_shield_02.dds"
+		instance={
+			position={ 0.495000 0.420000 }
+			scale={ 0.370000 0.365000 }
+			depth=60.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.630000 0.470000 }
+			scale={ -0.020000 0.030000 }
+		}
+
+		instance={
+			position={ 0.605000 0.465000 }
+			scale={ 0.030000 0.040000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.575000 0.465000 }
+			scale={ 0.030000 0.040000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.545000 0.465000 }
+			scale={ 0.030000 0.040000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.590000 0.440000 }
+			scale={ 0.030000 0.040000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.620000 0.440000 }
+			scale={ 0.030000 0.040000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.560000 0.440000 }
+			scale={ 0.030000 0.040000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.530000 0.440000 }
+			scale={ 0.030000 0.040000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_triangle_mask.dds"
+		instance={
+			position={ 0.460000 0.580000 }
+			scale={ -0.020000 -0.020000 }
+			depth=33.009998
+			rotation=326
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		texture="ce_castle.dds"
+		instance={
+			position={ 0.385000 0.285000 }
+			scale={ 0.070000 0.070000 }
+			depth=24.010000
+		}
+
+		instance={
+			position={ 0.460000 0.370000 }
+			scale={ 0.070000 0.070000 }
+			depth=25.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle.dds"
+		instance={
+			position={ 0.595000 0.335000 }
+			scale={ 0.045000 0.070000 }
+			depth=26.010000
+		}
+
+		instance={
+			position={ 0.635000 0.335000 }
+			scale={ -0.045000 0.070000 }
+			depth=27.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=63.009998
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=64.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_pile_02_inverted.dds"
+		instance={
+			position={ 0.500000 0.385000 }
+			scale={ 0.125000 0.050000 }
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_mena_diamond_napkin.dds"
+		instance={
+			position={ 0.500000 0.390000 }
+			scale={ 0.050000 0.080000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_ordinary_bend_dexter_5.dds"
+		instance={
+			position={ 0.465000 0.570000 }
+			scale={ 0.030000 0.030000 }
+			depth=32.009998
+			rotation=173
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_eagle_crown_boned.dds"
+		instance={
+			position={ 0.500000 0.510000 }
+			scale={ 0.100000 0.100000 }
+			depth=19.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_paly_06.dds"
+		instance={
+			position={ 0.540000 0.330000 }
+			scale={ -0.065000 0.160000 }
+			depth=42.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.490000 0.530000 }
+			scale={ 0.090000 0.070000 }
+			depth=18.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_shield_02.dds"
+		instance={
+			position={ 0.500000 0.505000 }
+			scale={ 0.090000 0.095000 }
+			depth=20.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.545000 0.530000 }
+			scale={ 0.180000 0.135000 }
+			depth=57.009998
+			rotation=21
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.495000 0.505000 }
+			scale={ 0.020000 0.075000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.485000 0.495000 }
+			scale={ 0.040000 0.065000 }
+			depth=17.010000
+		}
+
+		instance={
+			position={ 0.605000 0.325000 }
+			scale={ 0.075000 0.155000 }
+			depth=44.009998
+		}
+
+		instance={
+			position={ 0.535000 0.325000 }
+			scale={ 0.075000 0.155000 }
+			depth=45.009998
+		}
+
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=67.010002
+		}
+
+		instance={
+			depth=68.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.510000 0.590000 }
+			scale={ 0.030000 0.035000 }
+			depth=40.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_lion_rampant_per_pale.dds"
+		instance={
+			position={ 0.485000 0.505000 }
+			scale={ 0.070000 0.080000 }
+			depth=15.010000
+		}
+
+	}
+
+}
+
+
+#########################################################################
+Trient
+
+coa_title_10701={
+	custom=yes
+	pattern="pattern_horizontal_split_02.dds"
+	color1=white
+	color2=black
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			depth=43.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_three_bezants.dds"
+		instance={
+			position={ 0.670000 0.145000 }
+			scale={ 0.090000 0.090000 }
+			depth=3.010000
+			rotation=35
+		}
+
+		instance={
+			position={ 0.330000 0.145000 }
+			scale={ 0.090000 0.090000 }
+			depth=4.010000
+			rotation=95
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_eastern_clouds.dds"
+		instance={
+			position={ 0.540000 0.210000 }
+			scale={ 0.065000 -0.065000 }
+			depth=5.010000
+			rotation=103
+		}
+
+		instance={
+			position={ 0.390000 0.755000 }
+			scale={ 0.060000 0.060000 }
+			depth=6.010000
+			rotation=160
+		}
+
+		instance={
+			position={ 0.610000 0.765000 }
+			scale={ 0.060000 -0.060000 }
+			depth=7.010000
+			rotation=229
+		}
+
+		instance={
+			position={ 0.440000 0.565000 }
+			scale={ 0.060000 0.060000 }
+			depth=8.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.560000 0.560000 }
+			scale={ 0.060000 0.060000 }
+			depth=9.010000
+			rotation=242
+		}
+
+		instance={
+			position={ 0.525000 0.430000 }
+			scale={ 0.060000 -0.060000 }
+			depth=10.010000
+			rotation=89
+		}
+
+		instance={
+			position={ 0.475000 0.445000 }
+			scale={ 0.060000 0.060000 }
+			depth=11.010000
+			rotation=87
+		}
+
+		instance={
+			position={ 0.500000 0.370000 }
+			scale={ 0.060000 -0.060000 }
+			depth=12.010000
+			rotation=267
+		}
+
+		instance={
+			position={ 0.505000 0.280000 }
+			scale={ 0.060000 0.060000 }
+			depth=13.010000
+			rotation=119
+		}
+
+		instance={
+			position={ 0.740000 0.300000 }
+			scale={ 0.060000 0.060000 }
+			depth=14.010000
+			rotation=28
+		}
+
+		instance={
+			position={ 0.790000 0.340000 }
+			scale={ 0.060000 -0.060000 }
+			depth=15.010000
+			rotation=30
+		}
+
+		instance={
+			position={ 0.740000 0.215000 }
+			scale={ 0.060000 0.060000 }
+			depth=16.010000
+			rotation=21
+		}
+
+		instance={
+			position={ 0.800000 0.240000 }
+			scale={ 0.060000 -0.060000 }
+			depth=17.010000
+			rotation=37
+		}
+
+		instance={
+			position={ 0.745000 0.140000 }
+			scale={ 0.060000 0.060000 }
+			depth=18.010000
+		}
+
+		instance={
+			scale={ 0.060000 0.060000 }
+			depth=19.010000
+			rotation=84
+		}
+
+		instance={
+			position={ 0.500000 0.665000 }
+			scale={ 0.060000 -0.060000 }
+			depth=20.010000
+			rotation=85
+		}
+
+		instance={
+			position={ 0.500000 0.790000 }
+			scale={ 0.060000 -0.060000 }
+			depth=21.010000
+			rotation=103
+		}
+
+		instance={
+			position={ 0.260000 0.145000 }
+			scale={ 0.060000 0.060000 }
+			depth=22.010000
+			rotation=180
+		}
+
+		instance={
+			position={ 0.410000 0.490000 }
+			scale={ 0.060000 -0.060000 }
+			depth=23.010000
+			rotation=114
+		}
+
+		instance={
+			position={ 0.590000 0.490000 }
+			scale={ 0.060000 0.060000 }
+			depth=24.010000
+			rotation=63
+		}
+
+		instance={
+			position={ 0.650000 0.455000 }
+			scale={ 0.060000 -0.060000 }
+			depth=25.010000
+			rotation=58
+		}
+
+		instance={
+			position={ 0.685000 0.510000 }
+			scale={ 0.060000 0.060000 }
+			depth=26.010000
+			rotation=58
+		}
+
+		instance={
+			position={ 0.720000 0.570000 }
+			scale={ 0.060000 -0.060000 }
+			depth=27.010000
+			rotation=75
+		}
+
+		instance={
+			position={ 0.710000 0.390000 }
+			scale={ 0.060000 0.060000 }
+			depth=28.010000
+			rotation=52
+		}
+
+		instance={
+			position={ 0.750000 0.445000 }
+			scale={ 0.060000 -0.060000 }
+			depth=29.010000
+			rotation=47
+		}
+
+		instance={
+			position={ 0.320000 0.500000 }
+			scale={ 0.060000 -0.060000 }
+			depth=30.010000
+			rotation=108
+		}
+
+		instance={
+			position={ 0.250000 0.225000 }
+			scale={ 0.060000 0.060000 }
+			depth=31.010000
+			rotation=155
+		}
+
+		instance={
+			position={ 0.285000 0.565000 }
+			scale={ 0.060000 0.060000 }
+			depth=32.010002
+			rotation=120
+		}
+
+		instance={
+			position={ 0.355000 0.435000 }
+			scale={ 0.060000 0.060000 }
+			depth=33.010002
+			rotation=113
+		}
+
+		instance={
+			position={ 0.210000 0.340000 }
+			scale={ 0.060000 -0.060000 }
+			depth=34.010002
+			rotation=140
+		}
+
+		instance={
+			position={ 0.260000 0.300000 }
+			scale={ 0.060000 0.060000 }
+			depth=35.010002
+			rotation=125
+		}
+
+		instance={
+			position={ 0.305000 0.370000 }
+			scale={ 0.060000 -0.060000 }
+			depth=36.010002
+			rotation=129
+		}
+
+		instance={
+			position={ 0.265000 0.430000 }
+			scale={ 0.060000 0.060000 }
+			depth=37.010002
+			rotation=117
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=yellow
+		color3=white
+		texture="ce_eagle.dds"
+		instance={
+			position={ 0.500000 0.510000 }
+			scale={ 1.100000 1.100000 }
+			depth=42.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.500000 0.420000 }
+			scale={ 0.085000 0.290000 }
+			depth=38.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_crescent_bone.dds"
+		instance={
+			position={ 0.500000 0.315000 }
+			scale={ 0.500000 0.400000 }
+			depth=39.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.430000 0.175000 }
+			scale={ 0.015000 0.015000 }
+			rotation=68
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.410000 0.170000 }
+			scale={ 0.075000 -0.070000 }
+			depth=1.010000
+			rotation=247
+		}
+
+		instance={
+			position={ 0.460000 0.175000 }
+			scale={ -0.125000 0.060000 }
+			depth=2.010000
+			rotation=233
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.310000 0.220000 }
+			scale={ 0.040000 -0.165000 }
+			depth=40.010002
+		}
+
+		instance={
+			position={ 0.690000 0.225000 }
+			scale={ -0.040000 -0.165000 }
+			depth=41.010002
+			rotation=10
+		}
+
+	}
+
+}
+
+#########################################################################
+Albert II of Habsburg
+
+coa_title_10730={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=red
+	color2=white
+	color3=red
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=5.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+		mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.410000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.340000 0.360000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_crown_small.dds"
+		instance={
+			position={ 0.765000 0.125000 }
+			scale={ 0.120000 0.120000 }
+			depth=3.010000
+			rotation=5
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_barruly_08.dds"
+		instance={
+			position={ 0.000000 0.500000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=yellow
+		color3=black
+		texture="ce_lion_rampant_per_pale.dds"
+		instance={
+			position={ 0.730000 0.475000 }
+			scale={ 0.750000 0.800000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.360000 0.370000 }
+			depth=2.010000
+		}
+
+	}
+
+}
+
+#########################################################################
+Albert II of Habsburg
+
+coa_title_10764={
+	custom=yes
+	pattern="pattern_shield_03_small.dds"
+	color1=yellow
+	color2=black
+	color3=red
+	colored_emblem={
+		color1=yellow
+		texture="ce_crown_small.dds"
+		instance={
+			position={ 0.575000 0.280000 }
+			scale={ 0.040000 0.040000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+mask={ 0 2 0 }
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=5.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+		instance={
+			position={ 0.500000 0.395000 }
+			scale={ 0.085000 0.125000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_double.dds"
+		instance={
+			scale={ 0.900000 1.000000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.405000 }
+			scale={ 0.110000 0.110000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.256000 0.256000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_barruly_08.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.325000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=red
+		texture="ce_chief.dds"
+mask={ 0 2 0 }
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.350000 0.350000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=yellow
+		color3=black
+		texture="ce_lion_rampant_per_pale.dds"
+		instance={
+			position={ 0.570000 0.400000 }
+			scale={ 0.240000 0.270000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.580000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.420000 0.155000 }
+			scale={ 0.240000 0.240000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.405000 }
+			scale={ 0.120000 0.120000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.000000 0.000000 }
+			depth=13.010000
+		}
+
+	}
+
+}
+
+##############################################################################
+Coat of arms of Saxony
+
+coa_title_10767={
+	custom=yes
+	pattern="pattern_vertical_split_01.dds"
+	color1=black
+	color2=yellow
+	color3=red
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.940000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			scale={ 0.100000 1.000000 }
+			depth=2.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=red
+		texture="ce_sword_simple.dds"
+		instance={
+			position={ 0.280000 0.440000 }
+			scale={ -0.700000 0.800000 }
+			rotation=25
+		}
+
+		instance={
+			position={ 0.330000 0.440000 }
+			scale={ 0.700000 0.800000 }
+			depth=1.010000
+			rotation=335
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		color2=green
+		color3=black
+		texture="ce_crancelin.dds"
+		instance={
+			position={ 0.715000 0.500000 }
+			scale={ 0.750000 0.750000 }
+			depth=5.010000
+			rotation=21
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.000000 }
+			scale={ 1.000000 0.960000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=yellow
+		texture="ce_barruly_10.dds"
+		instance={
+			position={ 1.000000 0.500000 }
+			depth=6.010000
+		}
+
+	}
+
+}
+
+##############################################################################
+House of Palatinate-Simmern
+
+coa_title_10768={
+	custom=yes
+	pattern="pattern_vertical_split_01.dds"
+	color1=black
+	color2=yellow
+	color3=black
+	colored_emblem={
+		color1=red
+		texture="ce_pile_mask_thin.dds"
+		instance={
+			position={ 0.500000 0.090000 }
+			scale={ 0.090000 0.215000 }
+		}
+
+		instance={
+			position={ 0.500000 0.185000 }
+			scale={ 0.250000 0.240000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 1.000000 }
+			scale={ 1.000000 0.495000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.660000 0.720000 }
+			scale={ 0.250000 0.250000 }
+			depth=3.010000
+			rotation=45
+		}
+
+		instance={
+			position={ 0.360000 0.695000 }
+			scale={ 0.250000 0.250000 }
+			depth=4.010000
+			rotation=45
+		}
+
+		instance={
+			position={ 0.850000 0.860000 }
+			scale={ 0.140000 0.140000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.500000 1.000000 }
+			scale={ 1.000000 0.450000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_lion_rampant_per_pale.dds"
+		instance={
+			position={ 0.215000 0.310000 }
+			scale={ -0.620000 0.620000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		color3=yellow
+		texture="ce_orb.dds"
+		instance={
+			position={ 0.500000 0.660000 }
+			scale={ 0.660000 0.660000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=blue
+		texture="ce_lozengy_bend.dds"
+		instance={
+			position={ 0.875000 0.385000 }
+			scale={ 0.750000 0.780000 }
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_crown_small.dds"
+		instance={
+			position={ 0.185000 0.040000 }
+			scale={ -0.080000 0.080000 }
+			depth=5.010000
+			rotation=351
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_mena_diamond_napkin.dds"
+		instance={
+			position={ 0.275000 0.770000 }
+			scale={ 1.000000 0.500000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.725000 0.770000 }
+			scale={ 1.000000 0.500000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.500000 0.740000 }
+			scale={ 1.100000 1.800000 }
+			depth=12.010000
+		}
+
+	}
+
+}
+
+##############################################################################
+Prince-Bishopric of Brixen
+
+coa_title_10769={
+	custom=yes
+	pattern="pattern_solid.dds"
+	color1=red
+	color2=white
+	color3=red
+	colored_emblem={
+		color1=rgb { 181 178 178 }
+		texture="ce_crescent.dds"
+		instance={
+			position={ 0.275000 0.450000 }
+			scale={ 0.050000 0.055000 }
+			depth=1.010000
+			rotation=288
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_sheep.dds"
+		instance={
+			position={ 0.510000 0.510000 }
+			scale={ 0.950000 0.950000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=black
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.275000 0.240000 }
+			scale={ 0.250000 0.250000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 179 172 172 }
+		texture="ce_crescent.dds"
+		instance={
+			position={ 0.290000 0.490000 }
+			scale={ 0.115000 0.070000 }
+			depth=2.010000
+			rotation=290
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.270000 0.485000 }
+			scale={ 0.050000 0.050000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_religion_custom_faith_2.dds"
+		instance={
+			position={ 0.615000 0.310000 }
+			scale={ 0.140000 0.140000 }
+			rotation=141
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=white
+		texture="ce_gotland_banner.dds"
+		instance={
+			position={ 0.395000 0.405000 }
+			scale={ -1.000000 1.000000 }
+			depth=4.010000
+			rotation=52
+		}
+
+	}
+
+}
+
+####################################################################################
+County of Thurn and Taxis
+
+coa_title_10706={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=yellow
+	color2=blue
+	color3=blue
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.950000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.425000 0.170000 }
+			scale={ 0.055000 0.045000 }
+		}
+
+		instance={
+			position={ 0.575000 0.170000 }
+			scale={ 0.055000 0.045000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.620000 0.130000 }
+			scale={ 0.165000 0.110000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.375000 0.105000 }
+			scale={ 0.140000 0.160000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=black
+		color3=white
+		texture="ce_eagle_small.dds"
+		instance={
+			position={ 0.500000 0.245000 }
+			scale={ 0.500000 0.500000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=white
+		color3=black
+		texture="ce_bear_passant.dds"
+		instance={
+			position={ 0.500000 0.700000 }
+			scale={ 0.750000 0.750000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_demi_vol.dds"
+		instance={
+			position={ 0.720000 0.265000 }
+			scale={ 0.460000 0.460000 }
+			depth=2.010000
+			rotation=340
+		}
+
+		instance={
+			position={ 0.280000 0.265000 }
+			scale={ -0.460000 0.460000 }
+			depth=3.010000
+			rotation=20
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			depth=9.010000
+		}
+
+	}
+
+}
+
+#######################################################################
+Charles V of Habsburg
+
+coa_title_10708={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=red
+	color2=white
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.520000 0.795000 }
+			scale={ 0.040000 0.040000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.525000 0.740000 }
+			scale={ 0.050000 0.120000 }
+			depth=20.010000
+		}
+
+		instance={
+			position={ 0.545000 0.670000 }
+			scale={ 0.090000 0.100000 }
+			depth=24.010000
+		}
+
+		instance={
+			position={ 0.930000 0.530000 }
+			scale={ 0.020000 0.020000 }
+			depth=42.010002
+			rotation=82
+		}
+
+		instance={
+			position={ 1.000000 0.980000 }
+			depth=73.010002
+		}
+
+		instance={
+			position={ 1.000000 0.000000 }
+			scale={ 0.085000 0.960000 }
+			depth=80.010002
+		}
+
+		instance={
+			position={ 0.000000 0.000000 }
+			depth=90.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_paly_08.dds"
+		instance={
+			position={ 0.685000 0.935000 }
+			scale={ 0.550000 0.515000 }
+			depth=57.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=red
+		texture="ce_paly_08.dds"
+		instance={
+			position={ 0.730000 0.730000 }
+			scale={ 0.550000 0.500000 }
+			depth=72.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.750000 0.020000 }
+			scale={ 0.100000 0.100000 }
+			rotation=67
+		}
+
+		instance={
+			position={ 0.780000 0.090000 }
+			scale={ 0.100000 0.100000 }
+			depth=1.010000
+			rotation=67
+		}
+
+		instance={
+			position={ 0.820000 0.180000 }
+			scale={ 0.100000 0.100000 }
+			depth=2.010000
+			rotation=67
+		}
+
+		instance={
+			position={ 0.860000 0.270000 }
+			scale={ 0.100000 0.100000 }
+			depth=3.010000
+			rotation=67
+		}
+
+		instance={
+			position={ 0.900000 0.360000 }
+			scale={ 0.100000 0.100000 }
+			depth=4.010000
+			rotation=67
+		}
+
+		instance={
+			position={ 0.935000 0.440000 }
+			scale={ 0.100000 0.100000 }
+			depth=5.010000
+			rotation=67
+		}
+
+		instance={
+			position={ 0.915000 0.070000 }
+			scale={ 0.100000 0.100000 }
+			depth=6.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.880000 0.160000 }
+			scale={ 0.100000 0.100000 }
+			depth=7.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.845000 0.245000 }
+			scale={ 0.100000 0.100000 }
+			depth=8.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.805000 0.340000 }
+			scale={ 0.100000 0.100000 }
+			depth=9.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.765000 0.435000 }
+			scale={ 0.100000 0.100000 }
+			depth=10.010000
+			rotation=112
+		}
+
+		instance={
+			position={ 0.500000 0.980000 }
+			scale={ 0.100000 1.000000 }
+			depth=12.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.500000 0.000000 }
+			scale={ 0.100000 0.720000 }
+			depth=13.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.270000 0.230000 }
+			scale={ 0.100000 0.500000 }
+			depth=14.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.730000 0.230000 }
+			scale={ 0.100000 0.500000 }
+			depth=28.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.500000 0.480000 }
+			scale={ 1.000000 0.100000 }
+			depth=29.010000
+		}
+
+		instance={
+			position={ 0.000000 0.240000 }
+			scale={ 1.000000 0.100000 }
+			depth=30.010000
+		}
+
+		instance={
+			position={ 0.500000 0.720000 }
+			scale={ 1.000000 0.100000 }
+			depth=31.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.800000 0.600000 }
+			scale={ 0.510000 0.160000 }
+			depth=70.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color3=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 0.120000 }
+			scale={ 0.540000 0.240000 }
+			depth=81.010002
+		}
+
+		instance={
+			position={ 0.385000 0.360000 }
+			scale={ 0.220000 0.240000 }
+			depth=82.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_pile_mask_thin.dds"
+		instance={
+			position={ 0.500000 0.355000 }
+			scale={ 0.060000 0.060000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_ordinary_fess_5.dds"
+		instance={
+			position={ 0.250000 0.600000 }
+			scale={ 0.500000 0.400000 }
+			depth=32.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		color2=white
+		texture="ce_per_bend.dds"
+		instance={
+			position={ 0.955000 0.240000 }
+			scale={ 0.150000 -0.360000 }
+			depth=86.010002
+			rotation=45
+		}
+
+		instance={
+			position={ 0.740000 0.240000 }
+			scale={ 0.150000 0.360000 }
+			depth=87.010002
+			rotation=45
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_paly_06.dds"
+		instance={
+			position={ 0.625000 0.230000 }
+			scale={ 0.200000 0.500000 }
+			depth=85.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_mena_horn.dds"
+		instance={
+			position={ 0.525000 0.800000 }
+			scale={ -0.080000 0.080000 }
+			depth=23.010000
+			rotation=340
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=yellow
+		texture="ce_diagonal_stripes_01.dds"
+		instance={
+			position={ 0.280000 0.930000 }
+			scale={ 0.500000 0.500000 }
+			depth=41.010002
+			rotation=10
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_triangle_mask.dds"
+		instance={
+			position={ 0.520000 0.815000 }
+			scale={ 0.040000 -0.040000 }
+			depth=17.010000
+		}
+
+		instance={
+			position={ 0.945000 0.500000 }
+			scale={ -0.045000 0.045000 }
+			depth=47.010002
+		}
+
+		instance={
+			position={ 0.955000 0.705000 }
+			scale={ -0.055000 -0.055000 }
+			depth=49.010002
+		}
+
+		instance={
+			position={ 0.525000 0.700000 }
+			scale={ -0.045000 0.045000 }
+			depth=51.010002
+		}
+
+		instance={
+			position={ 0.525000 0.500000 }
+			scale={ -0.045000 -0.045000 }
+			depth=52.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=purple
+		color2=red
+		texture="ce_lion_rampant_crown.dds"
+		instance={
+			position={ 0.150000 0.365000 }
+			scale={ 0.250000 0.250000 }
+			depth=76.010002
+		}
+
+		instance={
+			position={ 0.390000 0.115000 }
+			scale={ 0.250000 0.250000 }
+			depth=77.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=white
+		texture="ce_barry_06.dds"
+		instance={
+			position={ 0.420000 0.620000 }
+			scale={ 0.250000 0.250000 }
+			depth=56.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=green
+		color2=red
+		texture="ce_pomegranate.dds"
+		instance={
+			position={ 0.500000 0.430000 }
+			scale={ 0.095000 0.095000 }
+			depth=71.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.530000 0.785000 }
+			scale={ 0.070000 0.050000 }
+			depth=19.010000
+		}
+
+		instance={
+			position={ 0.545000 0.760000 }
+			scale={ 0.075000 0.075000 }
+			depth=21.010000
+		}
+
+		instance={
+			position={ 0.560000 0.740000 }
+			scale={ 0.070000 0.080000 }
+			depth=22.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.480000 0.985000 }
+			scale={ 0.040000 0.500000 }
+			depth=33.010002
+		}
+
+		instance={
+			position={ 0.250000 0.740000 }
+			scale={ 0.500000 0.035000 }
+			depth=34.010002
+		}
+
+		instance={
+			position={ 0.110000 0.890000 }
+			scale={ 0.170000 0.170000 }
+			depth=35.010002
+			rotation=34
+		}
+
+		instance={
+			position={ 0.000000 0.600000 }
+			scale={ 1.000000 0.240000 }
+			depth=37.010002
+		}
+
+		instance={
+			position={ 0.500000 1.000000 }
+			scale={ 0.155000 0.155000 }
+			depth=38.010002
+		}
+
+		instance={
+			position={ 0.925000 0.500000 }
+			scale={ 0.005000 0.035000 }
+			depth=46.010002
+		}
+
+		instance={
+			position={ 0.930000 0.705000 }
+			scale={ 0.005000 0.050000 }
+			depth=48.010002
+		}
+
+		instance={
+			position={ 1.000000 0.505000 }
+			scale={ 0.130000 0.045000 }
+			depth=50.010002
+		}
+
+		instance={
+			position={ 0.510000 0.705000 }
+			scale={ -0.075000 0.030000 }
+			depth=53.010002
+		}
+
+		instance={
+			position={ 0.995000 0.700000 }
+			scale={ 0.170000 0.040000 }
+			depth=54.010002
+		}
+
+		instance={
+			position={ 0.280000 0.500000 }
+			scale={ 0.525000 0.045000 }
+			depth=58.010002
+		}
+
+		instance={
+			position={ 0.000000 0.980000 }
+			depth=74.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.905000 0.540000 }
+			scale={ 0.040000 0.040000 }
+			depth=69.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.550000 0.660000 }
+			scale={ 0.080000 0.100000 }
+			depth=59.010002
+		}
+
+		instance={
+			position={ 0.790000 0.660000 }
+			scale={ 0.080000 0.100000 }
+			depth=60.010002
+		}
+
+		instance={
+			position={ 0.870000 0.660000 }
+			scale={ 0.080000 0.100000 }
+			depth=61.010002
+		}
+
+		instance={
+			position={ 0.830000 0.580000 }
+			scale={ 0.080000 0.100000 }
+			depth=62.010002
+		}
+
+		instance={
+			position={ 0.630000 0.660000 }
+			scale={ 0.080000 0.100000 }
+			depth=63.010002
+		}
+
+		instance={
+			position={ 0.910000 0.580000 }
+			scale={ 0.080000 0.100000 }
+			depth=64.010002
+		}
+
+		instance={
+			position={ 0.750000 0.580000 }
+			scale={ 0.080000 0.100000 }
+			depth=65.010002
+		}
+
+		instance={
+			position={ 0.670000 0.580000 }
+			scale={ 0.080000 0.100000 }
+			depth=66.010002
+		}
+
+		instance={
+			position={ 0.710000 0.660000 }
+			scale={ 0.080000 0.100000 }
+			depth=67.010002
+		}
+
+		instance={
+			position={ 0.590000 0.580000 }
+			scale={ 0.080000 0.100000 }
+			depth=68.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_block_01.dds"
+		instance={
+			position={ 0.965000 0.595000 }
+			scale={ 0.070000 0.070000 }
+			depth=43.010002
+		}
+
+		instance={
+			position={ 0.960000 0.670000 }
+			scale={ 0.060000 0.055000 }
+			depth=44.010002
+			rotation=9
+		}
+
+		instance={
+			position={ 0.950000 0.530000 }
+			scale={ 0.050000 0.050000 }
+			depth=45.010002
+			rotation=169
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		texture="ce_castle.dds"
+		instance={
+			position={ 0.380000 0.360000 }
+			scale={ 0.250000 0.250000 }
+			depth=78.010002
+		}
+
+		instance={
+			position={ 0.160000 0.110000 }
+			scale={ 0.250000 0.250000 }
+			depth=79.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_eagle_small.dds"
+		instance={
+			position={ 0.915000 0.255000 }
+			scale={ 0.130000 0.180000 }
+			depth=83.010002
+		}
+
+		instance={
+			position={ 0.780000 0.255000 }
+			scale={ 0.130000 0.180000 }
+			depth=84.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_mena_diamond_napkin.dds"
+		instance={
+			position={ 0.500000 0.480000 }
+			scale={ 0.390000 0.370000 }
+			depth=75.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.730000 }
+			scale={ 0.220000 0.220000 }
+			depth=25.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		color3=white
+		texture="ce_eagle_crown_boned.dds"
+		instance={
+			position={ 0.545000 0.715000 }
+			scale={ 0.125000 0.185000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		color2=yellow
+		texture="ce_paly_06.dds"
+		instance={
+			position={ 0.835000 0.230000 }
+			scale={ 0.200000 0.500000 }
+			depth=88.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=red
+		texture="ce_lion_rampant.dds"
+		instance={
+			position={ 0.645000 0.825000 }
+			scale={ 0.270000 0.220000 }
+			depth=27.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_shield_01.dds"
+		instance={
+			position={ 0.500000 0.730000 }
+			scale={ 0.240000 0.240000 }
+			depth=26.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 0.000000 }
+			scale={ 1.000000 0.960000 }
+			depth=89.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 1.000000 }
+			scale={ 1.000000 0.565000 }
+			depth=36.010002
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_lion_rampant_per_pale.dds"
+		instance={
+			position={ 0.455000 0.710000 }
+			scale={ 0.155000 0.185000 }
+			depth=16.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_mena_diamond_napkin.dds"
+		instance={
+			position={ 0.015000 0.955000 }
+			scale={ 1.000000 0.970000 }
+			depth=39.010002
+			rotation=89
+		}
+
+		instance={
+			position={ 0.240000 1.000000 }
+			scale={ 0.890000 0.645000 }
+			depth=40.010002
+			rotation=68
+		}
+
+		instance={
+			position={ 1.000000 0.595000 }
+			scale={ 0.350000 0.445000 }
+			depth=55.010002
+			rotation=43
+		}
+
+	}
+
+}
