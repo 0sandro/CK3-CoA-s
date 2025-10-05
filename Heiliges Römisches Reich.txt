@@ -1,5 +1,5 @@
 ###################################################
-technical MOCKUP
+HRE masking template
 
 coa_title_10700={
 	custom=yes
@@ -5477,3 +5477,4 @@ coa_title_10708={
 	}
 
 }
+
