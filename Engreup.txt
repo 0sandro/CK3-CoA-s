@@ -1,0 +1,1513 @@
+Kingdom of England
+
+coa_title_14021={
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=blue
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.700000 0.820000 }
+			scale={ 0.210000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.800000 0.620000 }
+			scale={ 0.210000 0.240000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.600000 0.620000 }
+			scale={ 0.210000 0.240000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.300000 0.380000 }
+			scale={ 0.210000 0.240000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.400000 0.180000 }
+			scale={ 0.210000 0.240000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.200000 0.180000 }
+			scale={ 0.210000 0.240000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.310000 0.890000 }
+			scale={ 0.380000 0.380000 }
+		}
+
+		instance={
+			position={ 0.310000 0.750000 }
+			scale={ 0.380000 0.380000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.310000 0.610000 }
+			scale={ 0.380000 0.380000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.690000 0.390000 }
+			scale={ 0.380000 0.380000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.690000 0.250000 }
+			scale={ 0.380000 0.380000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.690000 0.110000 }
+			scale={ 0.380000 0.380000 }
+			depth=5.010000
+		}
+
+	}
+
+}
+
+
+Lancaster 1
+
+coa_house_83902362={
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=blue
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.360000 0.235000 }
+			scale={ 0.085000 0.240000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.220000 0.235000 }
+			scale={ 0.085000 0.240000 }
+			depth=17.010000
+		}
+
+		instance={
+			position={ 0.030000 0.130000 }
+			scale={ 1.000000 0.030000 }
+			depth=18.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.235000 }
+			scale={ 0.085000 0.240000 }
+			depth=15.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_ermine_spot.dds"
+		instance={
+			position={ 0.220000 0.320000 }
+			scale={ 0.130000 0.090000 }
+		}
+
+		instance={
+			position={ 0.220000 0.250000 }
+			scale={ 0.130000 0.090000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.220000 0.180000 }
+			scale={ 0.130000 0.090000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.360000 0.320000 }
+			scale={ 0.130000 0.090000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.360000 0.250000 }
+			scale={ 0.130000 0.090000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.360000 0.180000 }
+			scale={ 0.130000 0.090000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.000000 1.000000 }
+			depth=24.010000
+		}
+
+		instance={
+			position={ 1.000000 0.000000 }
+			depth=27.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.640000 0.320000 }
+			scale={ 0.080000 0.070000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.640000 0.250000 }
+			scale={ 0.080000 0.070000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.640000 0.180000 }
+			scale={ 0.080000 0.070000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.780000 0.320000 }
+			scale={ 0.080000 0.070000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.780000 0.250000 }
+			scale={ 0.080000 0.070000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.780000 0.180000 }
+			scale={ 0.080000 0.070000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.500000 0.320000 }
+			scale={ 0.080000 0.070000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.500000 0.250000 }
+			scale={ 0.080000 0.070000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.500000 0.180000 }
+			scale={ 0.080000 0.070000 }
+			depth=14.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 1.000000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=28.010000
+		}
+
+		instance={
+			position={ 0.800000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=29.010000
+		}
+
+		instance={
+			position={ 0.600000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=30.010000
+		}
+
+		instance={
+			position={ 0.400000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=31.010000
+		}
+
+		instance={
+			position={ 0.200000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=32.009998
+		}
+
+		instance={
+			position={ 0.000000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=33.009998
+		}
+
+		instance={
+			position={ 0.900000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=34.009998
+		}
+
+		instance={
+			position={ 0.700000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=35.009998
+		}
+
+		instance={
+			position={ 0.500000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=36.009998
+		}
+
+		instance={
+			position={ 0.300000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=37.009998
+		}
+
+		instance={
+			position={ 0.100000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=38.009998
+		}
+
+		instance={
+			position={ 1.000000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=39.009998
+		}
+
+		instance={
+			position={ 0.800000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=40.009998
+		}
+
+		instance={
+			position={ 0.600000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=41.009998
+		}
+
+		instance={
+			position={ 0.400000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=42.009998
+		}
+
+		instance={
+			position={ 0.200000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=43.009998
+		}
+
+		instance={
+			position={ 0.000000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=44.009998
+		}
+
+		instance={
+			position={ 0.900000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=45.009998
+		}
+
+		instance={
+			position={ 0.700000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=46.009998
+		}
+
+		instance={
+			position={ 0.500000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=47.009998
+		}
+
+		instance={
+			position={ 0.300000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=48.009998
+		}
+
+		instance={
+			position={ 0.100000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=49.009998
+		}
+
+		instance={
+			position={ 1.000000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=50.009998
+		}
+
+		instance={
+			position={ 0.800000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=51.009998
+		}
+
+		instance={
+			position={ 0.600000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=52.009998
+		}
+
+		instance={
+			position={ 0.400000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=53.009998
+		}
+
+		instance={
+			position={ 0.200000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=54.009998
+		}
+
+		instance={
+			position={ 0.000000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=55.009998
+		}
+
+		instance={
+			position={ 0.900000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=56.009998
+		}
+
+		instance={
+			position={ 0.700000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=57.009998
+		}
+
+		instance={
+			position={ 0.500000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=58.009998
+		}
+
+		instance={
+			position={ 0.300000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=59.009998
+		}
+
+		instance={
+			position={ 0.100000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=60.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.310000 0.890000 }
+			scale={ 0.380000 0.380000 }
+			depth=20.010000
+		}
+
+		instance={
+			position={ 0.310000 0.750000 }
+			scale={ 0.380000 0.380000 }
+			depth=21.010000
+		}
+
+		instance={
+			position={ 0.310000 0.610000 }
+			scale={ 0.380000 0.380000 }
+			depth=22.010000
+		}
+
+		instance={
+			position={ 0.690000 0.390000 }
+			scale={ 0.380000 0.380000 }
+			depth=23.010000
+		}
+
+		instance={
+			position={ 0.690000 0.250000 }
+			scale={ 0.380000 0.380000 }
+			depth=25.010000
+		}
+
+		instance={
+			position={ 0.690000 0.110000 }
+			scale={ 0.380000 0.380000 }
+			depth=26.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_label_05.dds"
+		instance={
+			depth=19.010000
+		}
+
+	}
+
+}
+
+
+York 1 
+
+coa_house_83912946={
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=blue
+	colored_emblem={
+		color1=red
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.250000 0.170000 }
+			scale={ 0.050000 0.050000 }
+		}
+
+		instance={
+			position={ 0.500000 0.310000 }
+			scale={ 0.050000 0.050000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.500000 0.240000 }
+			scale={ 0.050000 0.050000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.500000 0.170000 }
+			scale={ 0.050000 0.050000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.750000 0.310000 }
+			scale={ 0.050000 0.050000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.750000 0.240000 }
+			scale={ 0.050000 0.050000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.750000 0.170000 }
+			scale={ 0.050000 0.050000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.250000 0.310000 }
+			scale={ 0.050000 0.050000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.250000 0.240000 }
+			scale={ 0.050000 0.050000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 0.000000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.000000 1.000000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_label_03.dds"
+		instance={
+			depth=9.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 1.000000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.800000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=19.010000
+		}
+
+		instance={
+			position={ 0.600000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=20.010000
+		}
+
+		instance={
+			position={ 0.400000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=21.010000
+		}
+
+		instance={
+			position={ 0.200000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=22.010000
+		}
+
+		instance={
+			position={ 0.000000 1.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=23.010000
+		}
+
+		instance={
+			position={ 0.900000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=24.010000
+		}
+
+		instance={
+			position={ 0.700000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=25.010000
+		}
+
+		instance={
+			position={ 0.500000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=26.010000
+		}
+
+		instance={
+			position={ 0.300000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=27.010000
+		}
+
+		instance={
+			position={ 0.100000 0.800000 }
+			scale={ 0.230000 0.260000 }
+			depth=28.010000
+		}
+
+		instance={
+			position={ 1.000000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=29.010000
+		}
+
+		instance={
+			position={ 0.800000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=30.010000
+		}
+
+		instance={
+			position={ 0.600000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=31.010000
+		}
+
+		instance={
+			position={ 0.400000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=32.009998
+		}
+
+		instance={
+			position={ 0.200000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=33.009998
+		}
+
+		instance={
+			position={ 0.000000 0.600000 }
+			scale={ 0.230000 0.260000 }
+			depth=34.009998
+		}
+
+		instance={
+			position={ 0.900000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=35.009998
+		}
+
+		instance={
+			position={ 0.700000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=36.009998
+		}
+
+		instance={
+			position={ 0.500000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=37.009998
+		}
+
+		instance={
+			position={ 0.300000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=38.009998
+		}
+
+		instance={
+			position={ 0.100000 0.400000 }
+			scale={ 0.230000 0.260000 }
+			depth=39.009998
+		}
+
+		instance={
+			position={ 1.000000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=40.009998
+		}
+
+		instance={
+			position={ 0.800000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=41.009998
+		}
+
+		instance={
+			position={ 0.600000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=42.009998
+		}
+
+		instance={
+			position={ 0.400000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=43.009998
+		}
+
+		instance={
+			position={ 0.200000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=44.009998
+		}
+
+		instance={
+			position={ 0.000000 0.200000 }
+			scale={ 0.230000 0.260000 }
+			depth=45.009998
+		}
+
+		instance={
+			position={ 0.900000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=46.009998
+		}
+
+		instance={
+			position={ 0.700000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=47.009998
+		}
+
+		instance={
+			position={ 0.500000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=48.009998
+		}
+
+		instance={
+			position={ 0.300000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=49.009998
+		}
+
+		instance={
+			position={ 0.100000 0.000000 }
+			scale={ 0.230000 0.260000 }
+			depth=50.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.310000 0.890000 }
+			scale={ 0.380000 0.380000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.310000 0.750000 }
+			scale={ 0.380000 0.380000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.310000 0.610000 }
+			scale={ 0.380000 0.380000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.690000 0.390000 }
+			scale={ 0.380000 0.380000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.690000 0.250000 }
+			scale={ 0.380000 0.380000 }
+			depth=14.010000
+		}
+
+		instance={
+			position={ 0.690000 0.110000 }
+			scale={ 0.380000 0.380000 }
+			depth=15.010000
+		}
+
+	}
+
+}
+
+
+Lancaster late coa
+
+coa_title_169={
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=blue
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			depth=18.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.625000 1.000000 }
+			scale={ 0.250000 1.000000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 1.000000 0.000000 }
+			scale={ 0.500000 1.000000 }
+			depth=11.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.180000 0.270000 }
+			scale={ 0.250000 0.420000 }
+		}
+
+		instance={
+			position={ 0.390000 0.270000 }
+			scale={ 0.250000 0.420000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.285000 0.600000 }
+			scale={ 0.250000 0.420000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.870000 0.740000 }
+			scale={ 0.140000 0.170000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.810000 0.600000 }
+			scale={ 0.140000 0.170000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.930000 0.600000 }
+			scale={ 0.140000 0.170000 }
+			depth=14.010000
+		}
+
+		instance={
+			position={ 0.630000 0.360000 }
+			scale={ 0.140000 0.220000 }
+			depth=15.010000
+		}
+
+		instance={
+			position={ 0.565000 0.180000 }
+			scale={ 0.140000 0.220000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.685000 0.180000 }
+			scale={ 0.140000 0.220000 }
+			depth=17.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_block_02.dds"
+		instance={
+			scale={ 0.010000 1.000000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_lion_passant_guardant.dds"
+		instance={
+			position={ 0.630000 0.900000 }
+			scale={ 0.230000 0.210000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.630000 0.750000 }
+			scale={ 0.230000 0.210000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.630000 0.600000 }
+			scale={ 0.230000 0.210000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.850000 0.400000 }
+			scale={ 0.230000 0.210000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.850000 0.250000 }
+			scale={ 0.230000 0.210000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.850000 0.100000 }
+			scale={ 0.230000 0.210000 }
+			depth=9.010000
+		}
+
+	}
+
+}
+
+Order of the Golden Fleece
+
+coa_title_2357={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=white
+	color2=red
+	color3=black
+	colored_emblem={
+		color1=white
+		texture="ce_block_02.dds"
+		instance={
+			depth=13.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.505000 0.305000 }
+			scale={ 0.045000 0.045000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_clarion.dds"
+		instance={
+			position={ 0.565000 0.160000 }
+			scale={ -0.250000 0.250000 }
+			depth=9.010000
+			rotation=200
+		}
+
+		instance={
+			position={ 0.435000 0.160000 }
+			scale={ 0.250000 0.250000 }
+			depth=10.010000
+			rotation=160
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		texture="ce_crown.dds"
+		instance={
+			position={ 0.500000 0.190000 }
+			scale={ 0.320000 0.320000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.255000 }
+			scale={ 0.190000 0.035000 }
+			depth=6.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_fleur_florence.dds"
+		instance={
+			position={ 0.440000 0.390000 }
+			scale={ 0.235000 -0.275000 }
+			depth=3.010000
+			rotation=90
+		}
+
+		instance={
+			position={ 0.570000 0.390000 }
+			scale={ 0.235000 0.275000 }
+			depth=4.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=white
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.505000 0.305000 }
+			scale={ 0.025000 0.025000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_polish_gozdawa.dds"
+		instance={
+			position={ 0.505000 0.390000 }
+			scale={ 0.430000 0.430000 }
+			depth=11.010000
+			rotation=90
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_circle_mask.dds"
+		instance={
+			position={ 0.505000 0.390000 }
+			scale={ 0.095000 0.050000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_clarion.dds"
+		instance={
+			position={ 0.570000 0.150000 }
+			scale={ -0.190000 0.190000 }
+			depth=7.010000
+			rotation=200
+		}
+
+		instance={
+			position={ 0.430000 0.150000 }
+			scale={ 0.190000 0.190000 }
+			depth=8.010000
+			rotation=160
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleece.dds"
+		instance={
+			position={ 0.500000 0.660000 }
+			scale={ 0.500000 0.500000 }
+			depth=12.010000
+		}
+
+	}
+
+}
+
+Humphrey of Lancaster
+
+coa_title_177={
+	pattern="pattern_checkers_02.dds"
+	color1=red
+	color2=blue
+	colored_emblem={
+		color1=white
+		texture="ce_border_shield.dds"
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.630000 0.710000 }
+			scale={ 0.140000 0.160000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.690000 0.590000 }
+			scale={ 0.140000 0.160000 }
+			depth=8.010000
+		}
+
+		instance={
+			position={ 0.570000 0.590000 }
+			scale={ 0.140000 0.160000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.350000 0.390000 }
+			scale={ 0.170000 0.190000 }
+			depth=10.010000
+		}
+
+		instance={
+			position={ 0.420000 0.240000 }
+			scale={ 0.170000 0.190000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.280000 0.240000 }
+			scale={ 0.170000 0.190000 }
+			depth=12.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.420000 0.800000 }
+			scale={ 0.140000 0.320000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.390000 0.680000 }
+			scale={ 0.210000 0.320000 }
+			depth=2.010000
+		}
+
+		instance={
+			position={ 0.355000 0.560000 }
+			scale={ 0.300000 0.320000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.650000 0.410000 }
+			scale={ 0.320000 0.320000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.650000 0.290000 }
+			scale={ 0.320000 0.320000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.650000 0.170000 }
+			scale={ 0.320000 0.320000 }
+			depth=6.010000
+		}
+
+	}
+
+}
+
+Beaufort
+
+coa_title_283={
+	custom=yes
+	pattern="pattern_horizontal_split_01.dds"
+	color1=blue
+	color2=white
+	color3=blue
+	colored_emblem={
+		color1=blue
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.045000 }
+			scale={ 0.945000 0.000000 }
+			depth=1.010000
+		}
+
+		instance={
+			position={ 0.615000 0.580000 }
+			scale={ 0.260000 0.260000 }
+			depth=35.009998
+		}
+
+		instance={
+			depth=37.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		texture="ce_border_shield.dds"
+		instance={
+			scale={ 1.160000 1.160000 }
+			depth=2.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=blue
+		color2=white
+		texture="ce_border_shield_compony.dds"
+		instance={
+			scale={ 1.180000 1.180000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=red
+		texture="ce_block_02.dds"
+		instance={
+			position={ 1.000000 0.000000 }
+			scale={ 1.000000 0.900000 }
+			depth=9.010000
+		}
+
+		instance={
+			position={ 0.000000 0.950000 }
+			depth=10.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.160000 0.460000 }
+			scale={ 0.140000 0.155000 }
+			depth=11.010000
+		}
+
+		instance={
+			position={ 0.700000 0.680000 }
+			scale={ 0.140000 0.155000 }
+			depth=12.010000
+		}
+
+		instance={
+			position={ 0.620000 0.760000 }
+			scale={ 0.140000 0.155000 }
+			depth=13.010000
+		}
+
+		instance={
+			position={ 0.540000 0.680000 }
+			scale={ 0.140000 0.155000 }
+			depth=14.010000
+		}
+
+		instance={
+			position={ 0.780000 0.440000 }
+			scale={ 0.140000 0.155000 }
+			depth=15.010000
+		}
+
+		instance={
+			position={ 0.620000 0.440000 }
+			scale={ 0.140000 0.155000 }
+			depth=16.010000
+		}
+
+		instance={
+			position={ 0.700000 0.520000 }
+			scale={ 0.140000 0.155000 }
+			depth=17.010000
+		}
+
+		instance={
+			position={ 0.540000 0.520000 }
+			scale={ 0.140000 0.155000 }
+			depth=18.010000
+		}
+
+		instance={
+			position={ 0.620000 0.600000 }
+			scale={ 0.140000 0.155000 }
+			depth=19.010000
+		}
+
+		instance={
+			position={ 0.540000 0.840000 }
+			scale={ 0.140000 0.155000 }
+			depth=20.010000
+		}
+
+		instance={
+			position={ 0.780000 0.600000 }
+			scale={ 0.140000 0.155000 }
+			depth=21.010000
+		}
+
+		instance={
+			position={ 0.240000 0.220000 }
+			scale={ 0.140000 0.155000 }
+			depth=22.010000
+		}
+
+		instance={
+			position={ 0.320000 0.140000 }
+			scale={ 0.140000 0.155000 }
+			depth=23.010000
+		}
+
+		instance={
+			position={ 0.240000 0.060000 }
+			scale={ 0.140000 0.155000 }
+			depth=24.010000
+		}
+
+		instance={
+			position={ 0.480000 0.300000 }
+			scale={ 0.140000 0.155000 }
+			depth=25.010000
+		}
+
+		instance={
+			position={ 0.400000 0.060000 }
+			scale={ 0.140000 0.155000 }
+			depth=26.010000
+		}
+
+		instance={
+			position={ 0.400000 0.380000 }
+			scale={ 0.140000 0.155000 }
+			depth=27.010000
+		}
+
+		instance={
+			position={ 0.160000 0.300000 }
+			scale={ 0.140000 0.155000 }
+			depth=28.010000
+		}
+
+		instance={
+			position={ 0.160000 0.140000 }
+			scale={ 0.140000 0.155000 }
+			depth=29.010000
+		}
+
+		instance={
+			position={ 0.480000 0.140000 }
+			scale={ 0.140000 0.155000 }
+			depth=30.010000
+		}
+
+		instance={
+			position={ 0.400000 0.220000 }
+			scale={ 0.140000 0.155000 }
+			depth=31.010000
+		}
+
+		instance={
+			position={ 0.240000 0.380000 }
+			scale={ 0.140000 0.155000 }
+			depth=32.009998
+		}
+
+		instance={
+			position={ 0.320000 0.300000 }
+			scale={ 0.140000 0.155000 }
+			depth=33.009998
+		}
+
+		instance={
+			position={ 0.320000 0.460000 }
+			scale={ 0.140000 0.155000 }
+			depth=34.009998
+		}
+
+		instance={
+			position={ 0.480000 0.460000 }
+			scale={ 0.140000 0.155000 }
+			depth=36.009998
+		}
+
+	}
+
+	colored_emblem={
+		color1=yellow
+		color2=blue
+		color3=black
+		texture="ce_leopard_passant_guardant.dds"
+		instance={
+			position={ 0.320000 0.510000 }
+			scale={ 0.380000 0.380000 }
+			depth=3.010000
+		}
+
+		instance={
+			position={ 0.345000 0.640000 }
+			scale={ 0.320000 0.380000 }
+			depth=4.010000
+		}
+
+		instance={
+			position={ 0.390000 0.770000 }
+			scale={ 0.220000 0.380000 }
+			depth=5.010000
+		}
+
+		instance={
+			position={ 0.680000 0.115000 }
+			scale={ 0.380000 0.380000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.680000 0.240000 }
+			scale={ 0.380000 0.380000 }
+			depth=7.010000
+		}
+
+		instance={
+			position={ 0.680000 0.370000 }
+			scale={ 0.380000 0.380000 }
+			depth=8.010000
+		}
+
+	}
+
+}
